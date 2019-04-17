@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4fb2b1e122575664391869c06886b44e
+timeCreated: 1489593422
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ROCK KAPAK 2
+  fontNames:
+  - ROCK KAPAK 2
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

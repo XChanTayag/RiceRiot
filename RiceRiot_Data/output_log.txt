@@ -1,0 +1,87 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   24.21.13.9924
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\PROJECTS\UNITY\RiceRiotv1.0\RiceRiotv1.0\RiceRiot_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\PROJECTS\UNITY\RiceRiotv1.0\RiceRiotv1.0\RiceRiot_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\PROJECTS\UNITY\RiceRiotv1.0\RiceRiotv1.0\RiceRiot_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\PROJECTS\UNITY\RiceRiotv1.0\RiceRiotv1.0\RiceRiot_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\PROJECTS\UNITY\RiceRiotv1.0\RiceRiotv1.0\RiceRiot_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\PROJECTS\UNITY\RiceRiotv1.0\RiceRiotv1.0\RiceRiot_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\PROJECTS\UNITY\RiceRiotv1.0\RiceRiotv1.0\RiceRiot_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\PROJECTS\UNITY\RiceRiotv1.0\RiceRiotv1.0\RiceRiot_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\PROJECTS\UNITY\RiceRiotv1.0\RiceRiotv1.0\RiceRiot_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading F:\PROJECTS\UNITY\RiceRiotv1.0\RiceRiotv1.0\RiceRiot_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.196 seconds
+Platform assembly: F:\PROJECTS\UNITY\RiceRiotv1.0\RiceRiotv1.0\RiceRiot_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\PROJECTS\UNITY\RiceRiotv1.0\RiceRiotv1.0\RiceRiot_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3286x1080 at -1366,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.866439 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.017869 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 336.
+Total: 0.491321 ms (FindLiveObjects: 0.041096 ms CreateObjectMapping: 0.033243 ms MarkObjects: 0.396041 ms  DeleteObjects: 0.019370 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.296310 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 324.
+Total: 0.187157 ms (FindLiveObjects: 0.018846 ms CreateObjectMapping: 0.010470 ms MarkObjects: 0.147370 ms  DeleteObjects: 0.009685 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.292646 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 336.
+Total: 0.195795 ms (FindLiveObjects: 0.024867 ms CreateObjectMapping: 0.014920 ms MarkObjects: 0.147893 ms  DeleteObjects: 0.007067 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.301546 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 460.
+Total: 1.425014 ms (FindLiveObjects: 0.022249 ms CreateObjectMapping: 0.011779 ms MarkObjects: 0.158625 ms  DeleteObjects: 1.231836 ms)
+
+LavaStage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Behaviour:set_enabled (bool)
+  at Player1.OnBecameInvisible () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Behaviour:set_enabled (bool)
+  at Player2.OnBecameInvisible () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 10.317745 ms
+
+Unloading 99 unused Assets to reduce memory usage. Loaded Objects now: 339.
+Total: 2.009260 ms (FindLiveObjects: 0.020417 ms CreateObjectMapping: 0.011255 ms MarkObjects: 0.218830 ms  DeleteObjects: 1.758233 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.360441 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 339.
+Total: 0.248932 ms (FindLiveObjects: 0.027484 ms CreateObjectMapping: 0.014658 ms MarkObjects: 0.202601 ms  DeleteObjects: 0.003141 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.298405 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 327.
+Total: 0.202339 ms (FindLiveObjects: 0.024081 ms CreateObjectMapping: 0.015182 ms MarkObjects: 0.152605 ms  DeleteObjects: 0.010208 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 26ec -> priority: 1 
